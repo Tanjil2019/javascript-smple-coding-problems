@@ -31,3 +31,7 @@ else{
 //startWith
 
 // console.log(lyrics.startsWith("Tmi"));
+
+// endsWith
+
+console.log(lyrics.endsWith('Parini'));
